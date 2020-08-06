@@ -1,5 +1,5 @@
 import React from 'react';
-class SubHeader  extends Component {
+class SubHeader  extends React.Component {
 
     render() { 
         return ( 

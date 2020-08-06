@@ -1,5 +1,5 @@
 import React from 'react';
-class Navigation  extends Component {
+class Navigation  extends React.Component {
 
     render() { 
         return ( 

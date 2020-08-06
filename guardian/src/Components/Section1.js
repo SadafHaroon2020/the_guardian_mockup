@@ -1,9 +1,17 @@
 import React from 'react';
-class Section1  extends Component {
+class Section1  extends React.Component {
 
     render() { 
         return ( 
-            <div></div>
+            <div className = "container">
+                <div className = "imgHolder">
+
+                </div>
+                <div className = "textHolder">
+
+                </div>
+
+            </div>
          );
     }
 }
