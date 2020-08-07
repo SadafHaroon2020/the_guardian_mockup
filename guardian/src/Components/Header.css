@@ -1,0 +1,31 @@
+.headerParent{
+    background-color: #052962;
+    display:flex;
+justify-content: space-between;
+width:100%;
+}
+.headerBox1{
+width:50%;
+}
+.headerBox1 > h2{
+    color: rgb(255, 229, 0);
+    font-size: 1.25rem;
+    line-height: 1.4375rem;
+}
+.headerBox1 > h4{
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.2;
+    margin-top: 0.1875rem;
+}
+.headerBox2{
+width:50%;
+}
+.headerBox2 > h1{
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.2;
+    margin-top: 0.1875rem;  
+}
